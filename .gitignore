@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Data / models (if you will track them with Git LFS instead)
+*.pt
+*.pkl
+*.dll
+*.lib
+
+# OS files
+.DS_Store
+Thumbs.db
